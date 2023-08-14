@@ -30,14 +30,6 @@ $ python3 Repeater.py
 
 My name is Hajin Kim, and I am a recent graduate of Georgia Tech, where I completed my undergraduate degree in Computer Science. In the upcoming fall, I'll be starting on my Master's degree in the same field. This summer, I worked as an Enterprise Services Engineer intern under Joseph Langford.
 
-<p align="center">
-  <img 
-    width=""
-    height=""
-    src="img/face.png"
-  >
-</p>
-
 Apart from work, I like to listen to music, travel, code, and drink some good coffee!
 # Problem Statement
 Earlier, utilizing Tanium On-Prem on Connect, users had the ability to retrieve data and write it within the network. However, this functionality is no longer available. Nevertheless, our clients have communicated a specific requirement for the data to be written within the network, as opposed to AWS S3.
